@@ -1,2 +1,2 @@
 # 21Sprint_CS7641ML
-Machine Learning
+Machine Learning by Youjung Kim
